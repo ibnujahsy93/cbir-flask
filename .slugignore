@@ -1,6 +1,8 @@
 venv/Lib/site-packages
 venv/Lib/site-packages/grpc
 venv/Lib/site-packages/grpcio
+venv/Lib/site-packages/clang
+venv/Lib/site-packages/keras
 venv/Scripts
 templates/*
 static/uploads
