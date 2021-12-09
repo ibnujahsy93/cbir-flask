@@ -10,4 +10,3 @@ tensorflow-cpu
 pillow
 numpy
 opencv-python
-sys
