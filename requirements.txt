@@ -4,3 +4,4 @@ gunicorn
 pillow
 numpy
 opencv-python
+keras==2.6.0
