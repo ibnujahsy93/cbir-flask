@@ -5,7 +5,7 @@ import os
 import cv2
 import sys
 
-sys.path.append('d:\cbir-flask\venv\lib\site-packages')
+sys.path.append('C:\Users\Acer\AppData\Local\Programs\Python\Python39\Lib\site-packages')
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = './static/uploads/'
