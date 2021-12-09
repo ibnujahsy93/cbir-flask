@@ -1,7 +1,1 @@
-venv/Lib/site-packages
-venv/Lib/site-packages/grpc
-venv/Lib/site-packages/grpcio
-venv/Scripts
-templates/*
-static/uploads
-/nangka_pandan_class_model.h5
+venv/*
