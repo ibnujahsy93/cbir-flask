@@ -1,4 +1,5 @@
 venv/Lib/site-packages
+venv/Scripts
 templates/*
 static/*
 /nangka_pandan_class_model.h5
