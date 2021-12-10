@@ -1,6 +1,2 @@
 venv/*
-venv/Scripts
-venv/Lib/site-packages/*
-venv/Include
-templates/*
-static/uploads
+
