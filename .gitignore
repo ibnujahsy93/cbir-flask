@@ -5,3 +5,4 @@ venv/Include
 templates/*
 static/uploads
 /nangka_pandan_class_model.h5
+.git/*
